@@ -8,7 +8,7 @@ var portscanner = require('portscanner');
 
 var EXPRESS_PORT = 3000;
 var LIVERELOAD_PORT = 35729;
-var EXPRESS_ROOT = __dirname;
+var EXPRESS_ROOT = process.cwd();
 
 
 
