@@ -7,7 +7,7 @@ livereload server for static file
 It depends on gulp and livereload
 
 ``` js
-$ npm install -g static-livereload
+$ npm install -g "https://github.com/Grynn/static-livereload/tarball/master"
 ```
 
 #utilisation
